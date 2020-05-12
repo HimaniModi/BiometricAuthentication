@@ -4,4 +4,4 @@ Users love Touch ID and Face ID because these authentication mechanisms let them
 You can read more from [Medium](https://medium.com/@ishwar.janwa.mi/de6ffe591941)
 
 
-![picture](Authentication-master/Images/Image.png) 
+![picture](/Authentication-master/Images/Image.png) 
