@@ -9,4 +9,4 @@ You can read more from [Medium](https://medium.com/@ishwar.janwa.mi/de6ffe591941
 
 # LICENSE!
 
-BiometricAuthentication is [MIT-licensed](/LICENSE).
+BiometricAuthentication is [MIT-licensed](/License).
